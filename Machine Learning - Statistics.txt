@@ -1,0 +1,13 @@
+Machine Learning   - Statistics  
+
+It requires understanding Bayesian thinking. 
+*Bayesian thinking* is the process of updating beliefs as additional data is collected, and it's the engine behind many machine learning models.
+Key concepts include conditional probability, priors and posteriors, and maximum likelihood.
+
+#### Here are the 3 steps to learning the statistics and probability required for data science:
+Step - 1 - Core Statistics Concepts
+Descriptive statistics, distributions, hypothesis testing, and regression.
+Step - 2 - Bayesian Thinking
+Conditional probability, priors, posteriors, and maximum likelihood.
+Step - 3 - Intro to Statistical Machine Learning
+Learn basic machine concepts and how statistics fits in.
